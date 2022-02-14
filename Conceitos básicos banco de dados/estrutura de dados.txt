@@ -1,0 +1,17 @@
+Arrays:
+Vetor armazena varias variáveis de um mesmo tipo.
+Matriz armazena vários vetores que podem ser de tipos diferentes.
+
+Registro é possível armazenar varias variáveis de tipos diferentes.
+
+Lista: arruma as variáveis em uma ordem específica e tem um tamanho ajustável diferente dos ,arrays 
+e pode receber valores ao longo da programação.
+Lista indica sempre o próximo e o elemento anterior por um nó.
+Lista ligada é uma lista que recebe variáveis somente para a frente, não podendo por variáveis em dois lados.
+Lista duplamente ligada tem uma ligação com um elemento anterior e o próximo elemento tendo 2 
+nós indicando o anterior e o próximo.
+Pilha coleção de elementos que permite somente o acesso e modificação de um item um por vez.
+Pilhas LIFO sao pilhas que sempre o primeiro elemento a ser retirado tem que ser o ultimo a ter entrado.
+Pilhas FIFO sao pilhas que sempre o primeiro a ser colocado tem que ser o primeiro a ser retirado.
+
+Continua...
